@@ -43,6 +43,7 @@ I'm a passionate and results-driven data professional with 8+ years of experienc
 
 - 📧 Email: lohit.inguva@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lohitinguva/)
+- https://lohitinguva.github.io/
 ---
 
 ### ⚡ Fun Facts
