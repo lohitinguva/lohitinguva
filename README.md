@@ -35,13 +35,13 @@ I'm a passionate and results-driven data professional with 8+ years of experienc
 ## 🌱 Learning Goals (2025)
 
 - Hands-on with 'dbt', Iceberg
-- Contributing to open source data engineering tools
+- Contributing to open-source data engineering tools
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: lohit.ing@gmail.com
+- 📧 Email: lohit.inguva@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lohitinguva/)
 ---
 
